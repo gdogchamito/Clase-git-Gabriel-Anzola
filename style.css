@@ -1,0 +1,12 @@
+.gradient {
+    display: block;
+    height: 40vh;
+    background-color: blue;
+}
+h1{
+    position: relative;
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-weight: bolder;
+}

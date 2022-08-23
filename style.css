@@ -10,3 +10,7 @@ h1{
     color: white;
     font-weight: bolder;
 }
+
+.animate__animated.animate__fadeInDown {
+    --animate-duration: 2s;
+  }
